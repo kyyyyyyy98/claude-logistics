@@ -1,0 +1,8 @@
+INVOICE
+Invoice No: INV-TEST-001
+Date: 11 May 2026
+From: Test Company Sdn Bhd
+To: Buyer Corp
+Item: Safety boots x 100 units @ RM45 each
+Total: RM4,500
+Payment: 30 days
